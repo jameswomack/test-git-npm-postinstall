@@ -1,0 +1,14 @@
+{
+  "name": "test-git-npm-postinstall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "string-is-empty": "github:jameswomack/string-is-empty#git-install-npm"
+  }
+}
